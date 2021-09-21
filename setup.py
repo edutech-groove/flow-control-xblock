@@ -86,7 +86,7 @@ with open("README.rst", "r") as file:
     long_description = file.read()
 
 setup(
-    name='flow-control-xblock',
+    name='edt-flow-control-xblock',
     version=__version__,
     author='eduNEXT',
     author_email='technical@edunext.co',
