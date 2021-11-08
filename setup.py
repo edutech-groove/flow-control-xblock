@@ -115,4 +115,6 @@ setup(
         ],
     },
     keywords='edunext xblock flowcontrol flow-control',
+    package_data=package_data(
+        "flow_control", ["templates", "public", "static"])
 )
